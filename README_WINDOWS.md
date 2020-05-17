@@ -10,10 +10,11 @@
 
 Open the Windows Command Prompt:
 
-1. In the "Run" box (that says 'Type here to search') at the bottom of the screen type: command
+1. In the "Run" box (that says 'Type here to search') at the bottom of the screen type: `command`
 2. Click on the Command Prompt App
 
-You should have a black command prompt screen. Let's create a new directory for the stem project, and move into that directory.
+You should have a black command prompt screen.  
+Let's create a new directory for the stem project, and move into that directory.  
 In the command prompt type:
 
     mkdir c:\%homepath%\stem
@@ -36,9 +37,5 @@ Now install the project (gym) code:
 
     pip install -r requirements.txt
 
-
-## Install
-
-    pip install -r requirements.txt
 
 
