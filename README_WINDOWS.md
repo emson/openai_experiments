@@ -38,4 +38,10 @@ Now install the project (gym) code:
     pip install -r requirements.txt
 
 
+## Run a CartPole_V0 Example
+
+From the command prompt type:
+
+    python \src\cartpole_v0.py
+
 
